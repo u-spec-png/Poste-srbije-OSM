@@ -1356,7 +1356,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "name": "22249 Сремска Рача",
                 "ref": "22249",
                 "addr:street": "Босутски пут",
@@ -2058,7 +2058,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "name:sr": "22260 Шид",
                 "name": "22260 Шид",
                 "name:sr-Latn": "22260 Šid",
@@ -4333,7 +4333,7 @@
                 "phone": "+381 11 3210-68",
                 "addr:housenumber": "2",
                 "name:sr-Latn": "11061 Beograd 139",
-                "opening_hours": "Mo-Su,PH 00:00-08:00,20:00-24:00",
+                "opening_hours": "Mo-Su,PH 20:00-08:00",
                 "amenity": "post_office",
                 "operator": "Pošta Srbije",
                 "operator:wikidata": "Q769311",
@@ -11803,7 +11803,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "name:sr-Latn": "24411 G. P. Horgoš",
                 "addr:street": "Гранични прелаз Хоргош - Реске",
                 "name:sr": "24411 Г. П. Хоргош",
@@ -18289,7 +18289,7 @@
                 "name": "11180 Београд 59",
                 "ref": "11180",
                 "addr:housenumber": "47",
-                "opening_hours": "Mo-Su,PH 00:00-19:00,19:10-24:00",
+                "opening_hours": "Mo-Su,PH 19:10-19:00",
                 "name:sr-Latn": "11180 Beograd 59",
                 "name:sr": "11180 Београд 59",
                 "amenity": "post_office",
@@ -25326,7 +25326,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "ref": "38226",
                 "name": "38226 Брњак",
                 "name:sr": "38226 Брњак",
@@ -25623,7 +25623,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "addr:street": "Јариње",
                 "ref": "38221",
                 "name:sr-Latn": "38221 Jarinje",
@@ -26433,7 +26433,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "addr:street": "Градина",
                 "name:sr": "18321 Градина",
                 "name": "18321 Градина",
@@ -32290,7 +32290,7 @@
         {
             "type": "Feature",
             "properties": {
-                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "opening_hours": "24/7",
                 "phone": "+381 22 2733-01",
                 "addr:pak": "329342",
                 "name": "22259 Батровци",
